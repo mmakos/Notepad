@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaClientServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaClientServer</output-path>
+    <root id="archive" name="javaClientServer.jar">
+      <element id="module-output" name="javaClient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-15.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/javafx-sdk-15.0.1/lib/javafx.fxml.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
